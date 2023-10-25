@@ -13,7 +13,7 @@ public class EventController {
     @GetMapping
     public String Hello(){
 
-        return "Olá !";
+        return "Olá  !";
     }
     @PostMapping
     public void registerEvent (){

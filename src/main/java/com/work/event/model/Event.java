@@ -11,7 +11,7 @@ import java.util.Date;
 public class Event {
 
     private long id;
-    private String title;
+    private String title ;
     private String description;
     private Date date;
     private String local;

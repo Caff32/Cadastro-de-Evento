@@ -1,4 +1,4 @@
-package com.work.event.infra;
+package com.work.event.infra.exception;
 
 
 import jakarta.persistence.EntityNotFoundException;

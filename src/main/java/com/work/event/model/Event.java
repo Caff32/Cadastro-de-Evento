@@ -36,6 +36,7 @@ public class Event {
         this.data = dados.data();
         this.local = dados.local();
         this.maxpeople = dados.maxpeople();
+        this.enable = true;
     }
 
     public void updateEvent(AttEvent dados) {

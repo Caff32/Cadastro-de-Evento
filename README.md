@@ -3,9 +3,7 @@ Cadastro de eventos - Spring Boot
 
 # Spring Boot - CRUD
 
-#Mêtodos de CRUD:#
-
-![image](https://github.com/Caff32/Cadastro-de-Evento/assets/23432983/9bb636dd-c84e-4ec2-a860-1ec1666af398)
+# Spring Security
 
 #Bloqueio de requisições:#
 
